@@ -1,0 +1,3 @@
+INSERT INTO FORNECEDOR(nome, email, comentario, cnpj) VALUES ('Fornecedor Teste', 'teste@teste.com', 'Primeiro fornecedor cadastrado', '111.222.333/44');
+INSERT INTO FORNECEDOR(nome, email, comentario, cnpj) VALUES ('Fornec2', '2@teste2.com', 'Segundo fornecedor', '111.325.568/01');
+INSERT INTO FORNECEDOR(nome, email, comentario, cnpj) VALUES ('Fornec3', '3@teste3.com', 'Terceiro fornecedor', '123.456.798/28');
