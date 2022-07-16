@@ -7,3 +7,4 @@ Framework SPRING BOOT;
 JPA;
 BD H2;
 Maven;
+Swagger: http://localhost:8080/swagger-ui/index.html
